@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include('partials/head') %>
+    <body>
+        <%- include('partials/nav') %>
+        <h1>Coucou EJS</h1>
+        <a href="/">Revenir à l'accueil</a>
+
+        <h2><%= single.title %></h2>
+        <p><%= single.description %></p>
+
+        <div><%- include('partials/footer') %></div>
+    </body>
+</html>

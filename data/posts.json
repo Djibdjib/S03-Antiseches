@@ -1,0 +1,12 @@
+[
+    {
+        "id": 1,
+        "title": "Premier article",
+        "description": "Lorem ipsum etc"
+    },
+    {
+        "id": 2,
+        "title": "Second article",
+        "description": "Lorem ipsum etc et mettre un texte un brin plus long"
+    }
+]
